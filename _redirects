@@ -15,4 +15,4 @@
 /hours        /contact.html   301
 
 # ── 404 fallback (must be last) ──
-/* /index.html 404
+/* /index.html 200
