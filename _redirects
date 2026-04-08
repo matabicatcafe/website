@@ -1,0 +1,26 @@
+# Matabi Cat Café — Cloudflare Pages Redirects
+# https://matabicafe.com
+
+# ── Trailing slash normalization ──
+/about     /about.html    301
+/menu      /menu.html     301
+/cats      /cats.html     301
+/gift-shop /gift-shop.html 301
+/gallery   /gallery.html  301
+/contact   /contact.html  301
+
+# ── Language subdirectory trailing slash ──
+/zh        /zh/           301
+/id        /id/           301
+
+# ── Common alternate URL spellings ──
+/cat-cafe     /            301
+/cat-cafe-bali /           301
+/coffee       /menu.html   301
+/shop         /gift-shop.html 301
+/photos       /gallery.html   301
+/location     /contact.html   301
+/hours        /contact.html   301
+
+# ── 404 fallback (must be last) ──
+/* /index.html 404

@@ -1,0 +1,12 @@
+# Matabi Cat Café & Gift Shop — robots.txt
+# https://matabicafe.com
+
+User-agent: *
+Allow: /
+
+# Block admin or private directories if added later
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemaps
+Sitemap: https://matabicafe.com/sitemap.xml

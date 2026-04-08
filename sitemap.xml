@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ════════════ ENGLISH ════════════ -->
+
+  <url>
+    <loc>https://matabicafe.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://matabicafe.com/"/>
+    <image:image>
+      <image:loc>https://matabicafe.com/assets/images/logo.jpg</image:loc>
+      <image:title>Matabi Cat Café &amp; Gift Shop — Legian, Bali</image:title>
+    </image:image>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/about.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/menu.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/menu.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/cats.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/cats.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/cats.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/cats.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/gift-shop.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/gift-shop.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/gift-shop.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/gift-shop.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/gallery.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/gallery.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/gallery.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/gallery.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/contact.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ════════════ TRADITIONAL CHINESE (zh-TW) ════════════ -->
+
+  <url>
+    <loc>https://matabicafe.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://matabicafe.com/"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/about.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/menu.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/menu.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/cats.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/gift-shop.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/gallery.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/zh/contact.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ════════════ INDONESIAN (id) ════════════ -->
+
+  <url>
+    <loc>https://matabicafe.com/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://matabicafe.com/"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/about.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/about.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/menu.html</loc>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://matabicafe.com/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://matabicafe.com/zh/menu.html"/>
+    <xhtml:link rel="alternate" hreflang="id"    href="https://matabicafe.com/id/menu.html"/>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/cats.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/gift-shop.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/gallery.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://matabicafe.com/id/contact.html</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
